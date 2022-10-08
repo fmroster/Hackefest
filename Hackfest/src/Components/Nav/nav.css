@@ -1,0 +1,31 @@
+.main-nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: red;
+}
+
+.main-nav .right {
+    display: flex;
+    gap: 2rem;
+}
+
+.top-sec {
+    width: 100%;
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav .right .nav-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.main-nav .bottom-sec {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+    max-width: 700px;
+}

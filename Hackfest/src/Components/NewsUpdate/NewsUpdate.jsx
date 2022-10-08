@@ -1,10 +1,10 @@
 import React from 'react'
-import './news.css'
+import './newsupdate.css'
 
 const NewsUpdate = () => {
   return (
     <div>
-      
+      news and updates
     </div>
   )
 }
